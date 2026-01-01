@@ -19,7 +19,7 @@ video link:- <a href="https://drive.google.com/file/d/1OOyQxjMqkMOSiFGnNg9LXuvTt
 
 ## Hosting 
 
-live hosting :- <a href="https://exam-react-five-pied.vercel.app/"> https://exam-react-five-pied.vercel.app/ </a>
+live hosting :- <a href="https://exams-nu-pied.vercel.app/">https://exams-nu-pied.vercel.app/ </a>
 
 
 ## 🛠 Tech Stack
